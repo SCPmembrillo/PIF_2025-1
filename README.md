@@ -8,4 +8,5 @@ Códigos para la pieza principal: Los 3 codigos corresponden a una pura pieza, y
 <br>
 Codigo para los pasadores: Un codigo, y se necesitan 4 piezas iguales.
 </br>
+
 - [Pasador](GRUPO_7_PIF/pasadores.gcode)
